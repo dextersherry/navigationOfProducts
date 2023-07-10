@@ -5,5 +5,5 @@
  ->TO RUN THE APPLICATION FILE<br>
  ->YOU SHOULD HAVE NODEJS INSTALLED IN YOUR SYSTEM TO RUN THIS FILE<br>
  ->SIMPLY CLONE OR COPY THE ALL THE FILES IN YOUR SYSTEM AND RUN <b>node index.js</b> in the command terminal
- ->DEPENDENCIES <h1>Express , Mongooose , Method-Override, Nodemon and Ejs  </h1?
+ -><h1>DEPENDENCIES are Express , Mongooose , Method-Override, Nodemon and Ejs  </h1>
  
